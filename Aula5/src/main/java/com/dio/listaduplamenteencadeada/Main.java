@@ -111,6 +111,6 @@ public class Main {
         System.out.println("Tamanho: "+lista2.size());
         System.out.println("Lista:");
         System.out.println(lista2);
-        
+
     }
 }
