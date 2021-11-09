@@ -48,5 +48,11 @@ public class Main {
         System.out.println("Adicionando o No 2 (pos 2)");
         lista.add(2, "No 2");
         System.out.println(lista);
+
+        System.out.println("------------------------------");
+        System.out.println("Percorrendo a lista com indice de 0 a 20");
+        for(int i = 0; i < 20; i++){
+            System.out.println(lista.get(i));
+        }
     }
 }
